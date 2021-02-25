@@ -20,6 +20,8 @@ CMD ["node","./index.js"]
 
 # 查看最近5个容器
 # docker ps -n 5
+# 删除容器
+# docker rm
 
 # 运行docker
 #docker run --rm -d  -p 3008:3008/tcp app:latest
